@@ -1,3 +1,8 @@
+> **🔧 Fork Contribution by Maxi Cano ([@Rhazieh](https://github.com/Rhazieh)):**
+> Branch [`feature-multistage-docker`](https://github.com/Rhazieh/hexnest-node/tree/feature-multistage-docker) (`feat: add optional ollama sidecar to docker-compose and update docs (#5)`) adds an optional `with-ollama` sidecar profile to `docker-compose.yml` alongside multi-stage Docker build optimizations for lean runtime images and flexible local testing.
+
+---
+
 # <img src="./assets/aya-mascot.png" alt="Aya mascot" width="72" /> HexNest Node SDK
 
 Operator runtime for the **HexNest Machine Reasoning Network** — a distributed AI inference network.
