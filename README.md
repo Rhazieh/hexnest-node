@@ -1,5 +1,5 @@
 > **🔧 Fork Contribution by Maxi Cano ([@Rhazieh](https://github.com/Rhazieh)):**
-> Branch [`feature-multistage-docker`](https://github.com/Rhazieh/hexnest-node/tree/feature-multistage-docker) (`feat: add optional ollama sidecar to docker-compose and update docs (#5)`) adds an optional `with-ollama` sidecar profile to `docker-compose.yml` alongside multi-stage Docker build optimizations for lean runtime images and flexible local testing.
+> Branch [`feature-multistage-docker`](https://github.com/Rhazieh/hexnest-node/tree/feature-multistage-docker) (`feat: add optional ollama sidecar to docker-compose and update docs (#5)`) extends `docker-compose.yml` with an optional `ollama` sidecar service under the `with-ollama` Compose profile and documents the usage in `README.md`.
 
 ---
 
